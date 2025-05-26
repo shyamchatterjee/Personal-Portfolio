@@ -17,7 +17,7 @@ let Navbar = ()=>{
        return <> {mode=="dark"?  <div className="navbar-section">
          <div className='canvas-icon'>
          <img src="https://www.pixelresort.com/wp-content/uploads/2022/12/procreate-icon.png" height={22} width={22} alt="" />
-                  <p>Canvas.</p>
+                  <p>ProjectHub.</p>
                   </div>
                   <div className="navbar">
                      
@@ -52,7 +52,7 @@ let Navbar = ()=>{
        </div>:  <div className="navbar-section">
          <div className='canvas-icon'>
          <img src="https://www.pixelresort.com/wp-content/uploads/2022/12/procreate-icon.png" height={22} width={22} alt="" />
-                  <p style={{color:"black",fontWeight:"bold"}}>Canvas.</p>
+                  <p style={{color:"black",fontWeight:"bold"}}>ProjectHub.</p>
                   </div>
                   <div className="navbar">
                      

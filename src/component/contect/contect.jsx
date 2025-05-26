@@ -32,7 +32,7 @@ let Contect = () => {
               width={22}
               alt=""
             />
-            <p>Canvas.</p>
+            <p>ProjectHub.</p>
           </div>
           <p className="heading">Let's talk</p>
           <div className="pera">
@@ -184,8 +184,7 @@ let Contect = () => {
       </div>
       <div className="contect-container">
         <div className="contect1">
-          <div className="canvas" style={{ fontSize: "20px", color: "black" ,fontWeight
-            :"bold"
+          <div className="canvas" style={{ fontSize: "20px", color: "black"
            }}>
             <img
               src="https://www.pixelresort.com/wp-content/uploads/2022/12/procreate-icon.png"
@@ -193,7 +192,7 @@ let Contect = () => {
               width={22}
               alt=""
             />
-            <p>Canvas.</p>
+            <p>ProjectHub.</p>
           </div>
           <p className="heading" style={{color:"white"}}>Let's talk</p>
           <div className="pera" style={{color:"black"}}>
